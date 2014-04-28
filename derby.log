@@ -1,0 +1,8 @@
+----------------------------------------------------------------
+Fri Sep 09 16:45:23 CEST 2011:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.7.1.1 - (1040133): instance a816c00e-0132-4ea6-7093-0000024f9480 
+on database directory C:\Users\Rade\workspace\SeminarA\baza\MyDB  with class loader sun.misc.Launcher$AppClassLoader@138d107f 
+Loaded from file:/C:/Users/Rade/workspace/SeminarA/lib/derby.jar
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_24-b07
+Database Class Loader started - derby.database.classpath=''
